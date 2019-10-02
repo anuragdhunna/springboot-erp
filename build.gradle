@@ -36,7 +36,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-security'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'de.codecentric:spring-boot-admin-starter-server'
-	implementation 'org.springframework.cloud:spring-cloud-starter-aws-messaging'
+//	implementation 'org.springframework.cloud:spring-cloud-starter-aws-messaging'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testImplementation 'de.flapdoodle.embed:de.flapdoodle.embed.mongo'
